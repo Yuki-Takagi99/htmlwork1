@@ -1,0 +1,29 @@
+.contact tr {
+  height: 7rem;
+}
+.contact th {
+  text-align: right;
+  vertical-align: middle;
+  width: 150px;
+  padding-right: 20px;
+}
+.contact .input_form {
+  width: 480px;
+}
+textarea {
+  resize: none;
+  width: 480px;
+}
+.btn {
+  background-color: #66CDAA;
+  color: #fff;
+  font-size: 3rem;
+  width: 120px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  margin-left: 240px;
+}
+.btn:hover {
+  opacity: 0.5;
+}
